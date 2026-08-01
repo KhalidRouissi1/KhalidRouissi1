@@ -1,0 +1,34 @@
+{
+  "username": "KhalidRouissi1",
+  "headline": "Open-source builder from Tunisia 🇹🇳",
+  "mission": "I build practical developer tools, localization infrastructure, and full-stack products—with a focus on problems faced by Tunisian and Arabic-speaking developers.",
+  "featured": [
+    "degachejs",
+    "Tarjemni",
+    "degache-go",
+    "WebCraft",
+    "ma7rath"
+  ],
+  "excluded": [
+    "KhalidRouissi1",
+    "podcast-test"
+  ],
+  "includeForks": false,
+  "minimumStars": 0,
+  "recentProjectLimit": 8,
+  "recommendations": [
+    {
+      "name": "Per Pinta",
+      "role": "Lead Engineer at DiploTools",
+      "date": "July 24, 2026",
+      "relationship": "Managed Khalid directly",
+      "quote": "Khalid was a pleasure to work with. He brought a careful, detail-oriented approach to all his engineering work. One area where he particularly stood out was debugging. Tracing complex issues back to their root cause came to him quickly and naturally. He was also particularly good at identifying well-licensed (MIT/Apache) open source libraries and tools that saved the team significant development time, while keeping us on solid legal footing. He's a thoughtful engineer and a great collaborator, and I'd gladly work with him again."
+    }
+  ],
+  "descriptionOverrides": {
+    "Tarjemni": "Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA.",
+    "degache-go": "Tunisian developer utilities for the Go ecosystem.",
+    "WebCraft": "Modern web product experimentation in TypeScript.",
+    "ma7rath": "A Go project from my backend and systems toolkit."
+  }
+}
