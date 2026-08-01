@@ -68,6 +68,7 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
+- [**README.md**](https://github.com/KhalidRouissi1/README.md) · JavaScript — Open-source project by Khalid Rouissi.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
 - [**c-project**](https://github.com/KhalidRouissi1/c-project) · C — Open-source project by Khalid Rouissi.
@@ -75,7 +76,6 @@ This list refreshes automatically from my most recently updated original reposit
 - [**genai_bootcamp**](https://github.com/KhalidRouissi1/genai_bootcamp) · Jupyter Notebook — Open-source project by Khalid Rouissi.
 - [**JeridSchool_LandingPage**](https://github.com/KhalidRouissi1/JeridSchool_LandingPage) — Open-source project by Khalid Rouissi.
 - [**infrastructure_digitalocean**](https://github.com/KhalidRouissi1/infrastructure_digitalocean) · TypeScript — Open-source project by Khalid Rouissi.
-- [**Stouchi**](https://github.com/KhalidRouissi1/Stouchi) · TypeScript · ⭐ 1 — Open-source project by Khalid Rouissi.
 <!-- AUTO:RECENT:END -->
 
 ---
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**41** original public repositories · **66** stars · **9** forks · **14** primary languages
+**42** original public repositories · **66** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
