@@ -68,7 +68,6 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
-- [**README.md**](https://github.com/KhalidRouissi1/README.md) · JavaScript — Open-source project by Khalid Rouissi.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
 - [**c-project**](https://github.com/KhalidRouissi1/c-project) · C — Open-source project by Khalid Rouissi.
@@ -76,6 +75,7 @@ This list refreshes automatically from my most recently updated original reposit
 - [**genai_bootcamp**](https://github.com/KhalidRouissi1/genai_bootcamp) · Jupyter Notebook — Open-source project by Khalid Rouissi.
 - [**JeridSchool_LandingPage**](https://github.com/KhalidRouissi1/JeridSchool_LandingPage) — Open-source project by Khalid Rouissi.
 - [**infrastructure_digitalocean**](https://github.com/KhalidRouissi1/infrastructure_digitalocean) · TypeScript — Open-source project by Khalid Rouissi.
+- [**Stouchi**](https://github.com/KhalidRouissi1/Stouchi) · TypeScript · ⭐ 1 — Open-source project by Khalid Rouissi.
 <!-- AUTO:RECENT:END -->
 
 ---
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**42** original public repositories · **66** stars · **9** forks · **14** primary languages
+**41** original public repositories · **66** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
@@ -102,6 +102,12 @@ This list refreshes automatically from my most recently updated original reposit
 > “Khalid was a pleasure to work with. He brought a careful, detail-oriented approach to all his engineering work. One area where he particularly stood out was debugging. Tracing complex issues back to their root cause came to him quickly and naturally. He was also particularly good at identifying well-licensed (MIT/Apache) open source libraries and tools that saved the team significant development time, while keeping us on solid legal footing. He's a thoughtful engineer and a great collaborator, and I'd gladly work with him again.”
 >
 > — **Per Pinta**, Lead Engineer at DiploTools · Managed Khalid directly · July 24, 2026
+
+---
+
+> “Khalid brings curiosity, practical engineering judgment, and a strong instinct for building scalable solutions. His open-source work reflects a genuine interest in solving regional problems and creating tools that other developers can build upon. Beyond his technical ability, he is thoughtful, collaborative, and always willing to explore ambitious ideas. We also competed together in a hackathon, where our team won first place with 75% of the vote.”
+>
+> — **Marzouq Alshammari**, Founder of HASYO and Tazid.co · Friend, collaborator, and hackathon teammate
 <!-- AUTO:RECOMMENDATIONS:END -->
 
 ---

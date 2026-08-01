@@ -23,6 +23,12 @@
       "date": "July 24, 2026",
       "relationship": "Managed Khalid directly",
       "quote": "Khalid was a pleasure to work with. He brought a careful, detail-oriented approach to all his engineering work. One area where he particularly stood out was debugging. Tracing complex issues back to their root cause came to him quickly and naturally. He was also particularly good at identifying well-licensed (MIT/Apache) open source libraries and tools that saved the team significant development time, while keeping us on solid legal footing. He's a thoughtful engineer and a great collaborator, and I'd gladly work with him again."
+    },
+    {
+      "name": "Marzouq Alshammari",
+      "role": "Founder of HASYO and Tazid.co",
+      "relationship": "Friend, collaborator, and hackathon teammate",
+      "quote": "Khalid brings curiosity, practical engineering judgment, and a strong instinct for building scalable solutions. His open-source work reflects a genuine interest in solving regional problems and creating tools that other developers can build upon. Beyond his technical ability, he is thoughtful, collaborative, and always willing to explore ambitious ideas. We also competed together in a hackathon, where our team won first place with 75% of the vote."
     }
   ],
   "descriptionOverrides": {

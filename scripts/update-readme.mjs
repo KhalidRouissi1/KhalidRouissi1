@@ -103,12 +103,15 @@ function metricsSection(repositories) {
 
 function recommendationsSection() {
   const recommendations = config.recommendations || [];
-  const lines = recommendations.flatMap((item, index) => [
-    `> “${item.quote}”`,
-    ">",
-    `> — **${item.name}**, ${item.role} · ${item.relationship} · ${item.date}`,
-    ...(index < recommendations.length - 1 ? ["", "---", ""] : [])
-  ]);
+  const lines = recommendations.flatMap((item, index) => {
+    const details = [item.role, item.relationship, item.date].filter(Boolean).join(" · ");
+    return [
+      `> “${item.quote}”`,
+      ">",
+      `> — **${item.name}**, ${details}`,
+      ...(index < recommendations.length - 1 ? ["", "---", ""] : [])
+    ];
+  });
 
   return [
     "<!-- AUTO:RECOMMENDATIONS:START -->",
