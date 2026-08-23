@@ -2,7 +2,7 @@
 
 # Hi, I'm Khalid Rouissi 👋
 
-### Open-source builder from Tunisia 🇹🇳
+### Open-source builder
 
 I build practical developer tools, localization infrastructure, and full-stack products—with a focus on problems faced by Tunisian and Arabic-speaking developers.
 
