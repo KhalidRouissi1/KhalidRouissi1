@@ -68,7 +68,7 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
-- [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 2 — Turn long YouTube videos into focused, trackable learning sessions.
+- [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 3 — Turn long YouTube videos into focused, trackable learning sessions.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
 - [**c-project**](https://github.com/KhalidRouissi1/c-project) · C — Open-source project by Khalid Rouissi.
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**42** original public repositories · **69** stars · **9** forks · **14** primary languages
+**42** original public repositories · **70** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
