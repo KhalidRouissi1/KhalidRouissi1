@@ -20,7 +20,7 @@ These projects best represent what I build:
 <!-- AUTO:FEATURED:START -->
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 46 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
+| [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 47 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
 | [**Tarjemni**](https://github.com/KhalidRouissi1/Tarjemni) ⭐ 6 | Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA. | Rust |
 | [**degache-go**](https://github.com/KhalidRouissi1/degache-go) ⭐ 2 | Tunisian developer utilities for the Go ecosystem. | Go |
 | [**WebCraft**](https://github.com/KhalidRouissi1/WebCraft) ⭐ 3 | Modern web product experimentation in TypeScript. | TypeScript |
@@ -68,6 +68,7 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
+- [**whats-bot**](https://github.com/KhalidRouissi1/whats-bot) · TypeScript — Open-source project by Khalid Rouissi.
 - [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 4 — Turn long YouTube videos into focused, trackable learning sessions.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
@@ -75,7 +76,6 @@ This list refreshes automatically from my most recently updated original reposit
 - [**SimpleCronNotifier**](https://github.com/KhalidRouissi1/SimpleCronNotifier) · Python — Open-source project by Khalid Rouissi.
 - [**genai_bootcamp**](https://github.com/KhalidRouissi1/genai_bootcamp) · Jupyter Notebook — Open-source project by Khalid Rouissi.
 - [**JeridSchool_LandingPage**](https://github.com/KhalidRouissi1/JeridSchool_LandingPage) — Open-source project by Khalid Rouissi.
-- [**infrastructure_digitalocean**](https://github.com/KhalidRouissi1/infrastructure_digitalocean) · TypeScript — Open-source project by Khalid Rouissi.
 <!-- AUTO:RECENT:END -->
 
 ---
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**42** original public repositories · **71** stars · **9** forks · **14** primary languages
+**43** original public repositories · **72** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
