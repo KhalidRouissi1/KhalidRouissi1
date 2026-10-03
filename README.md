@@ -68,7 +68,6 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
-- [**whats-bot**](https://github.com/KhalidRouissi1/whats-bot) · TypeScript — Open-source project by Khalid Rouissi.
 - [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 4 — Turn long YouTube videos into focused, trackable learning sessions.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
@@ -76,6 +75,7 @@ This list refreshes automatically from my most recently updated original reposit
 - [**SimpleCronNotifier**](https://github.com/KhalidRouissi1/SimpleCronNotifier) · Python — Open-source project by Khalid Rouissi.
 - [**genai_bootcamp**](https://github.com/KhalidRouissi1/genai_bootcamp) · Jupyter Notebook — Open-source project by Khalid Rouissi.
 - [**JeridSchool_LandingPage**](https://github.com/KhalidRouissi1/JeridSchool_LandingPage) — Open-source project by Khalid Rouissi.
+- [**infrastructure_digitalocean**](https://github.com/KhalidRouissi1/infrastructure_digitalocean) · TypeScript — Open-source project by Khalid Rouissi.
 <!-- AUTO:RECENT:END -->
 
 ---
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**43** original public repositories · **72** stars · **9** forks · **14** primary languages
+**42** original public repositories · **72** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
