@@ -20,7 +20,7 @@ These projects best represent what I build:
 <!-- AUTO:FEATURED:START -->
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 47 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
+| [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 48 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
 | [**Tarjemni**](https://github.com/KhalidRouissi1/Tarjemni) ⭐ 6 | Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA. | Rust |
 | [**degache-go**](https://github.com/KhalidRouissi1/degache-go) ⭐ 2 | Tunisian developer utilities for the Go ecosystem. | Go |
 | [**WebCraft**](https://github.com/KhalidRouissi1/WebCraft) ⭐ 3 | Modern web product experimentation in TypeScript. | TypeScript |
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**42** original public repositories · **72** stars · **9** forks · **14** primary languages
+**42** original public repositories · **73** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
