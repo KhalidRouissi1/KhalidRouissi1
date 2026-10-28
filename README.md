@@ -68,14 +68,14 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
+- [**weiterwerk-bildungszentrum-demo**](https://github.com/KhalidRouissi1/weiterwerk-bildungszentrum-demo) · JavaScript — Fictional adult education and vocational training website demo with bilingual programme finder
+- [**parola-kulturatelier-demo**](https://github.com/KhalidRouissi1/parola-kulturatelier-demo) · JavaScript — Open-source project by Khalid Rouissi.
+- [**luma-sprachstudio-demo**](https://github.com/KhalidRouissi1/luma-sprachstudio-demo) · JavaScript — Open-source project by Khalid Rouissi.
 - [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 6 — Turn long YouTube videos into focused, trackable learning sessions.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
 - [**c-project**](https://github.com/KhalidRouissi1/c-project) · C — Open-source project by Khalid Rouissi.
 - [**SimpleCronNotifier**](https://github.com/KhalidRouissi1/SimpleCronNotifier) · Python — Open-source project by Khalid Rouissi.
-- [**genai_bootcamp**](https://github.com/KhalidRouissi1/genai_bootcamp) · Jupyter Notebook — Open-source project by Khalid Rouissi.
-- [**JeridSchool_LandingPage**](https://github.com/KhalidRouissi1/JeridSchool_LandingPage) — Open-source project by Khalid Rouissi.
-- [**infrastructure_digitalocean**](https://github.com/KhalidRouissi1/infrastructure_digitalocean) · TypeScript — Open-source project by Khalid Rouissi.
 <!-- AUTO:RECENT:END -->
 
 ---
@@ -83,7 +83,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**42** original public repositories · **75** stars · **9** forks · **14** primary languages
+**45** original public repositories · **75** stars · **9** forks · **14** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
