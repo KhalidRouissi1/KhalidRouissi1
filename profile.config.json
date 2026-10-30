@@ -5,6 +5,7 @@
   "featured": [
     "degachejs",
     "Tarjemni",
+    "darb-youtube",
     "degache-go",
     "WebCraft",
     "ma7rath"
@@ -35,6 +36,7 @@
     "Tarjemni": "Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA.",
     "degache-go": "Tunisian developer utilities for the Go ecosystem.",
     "WebCraft": "Modern web product experimentation in TypeScript.",
-    "ma7rath": "A Go project from my backend and systems toolkit."
+    "ma7rath": "A Go project from my backend and systems toolkit.",
+    "darb-youtube": "Darb درب — a browser extension for daily video learning sessions, playlists, timestamped notes, and an organised workspace, with optional MCP integration."
   }
 }

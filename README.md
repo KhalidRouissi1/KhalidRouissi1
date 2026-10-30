@@ -22,6 +22,7 @@ These projects best represent what I build:
 | --- | --- | --- |
 | [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 48 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
 | [**Tarjemni**](https://github.com/KhalidRouissi1/Tarjemni) ⭐ 6 | Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA. | Rust |
+| [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) ⭐ 6 | Darb درب — a browser extension for daily video learning sessions, playlists, timestamped notes, and an organised workspace, with optional MCP integration. | TypeScript |
 | [**degache-go**](https://github.com/KhalidRouissi1/degache-go) ⭐ 2 | Tunisian developer utilities for the Go ecosystem. | Go |
 | [**WebCraft**](https://github.com/KhalidRouissi1/WebCraft) ⭐ 3 | Modern web product experimentation in TypeScript. | TypeScript |
 | [**ma7rath**](https://github.com/KhalidRouissi1/ma7rath) ⭐ 2 | A Go project from my backend and systems toolkit. | Go |
@@ -68,10 +69,10 @@ I work across **TypeScript**, **Go**, **Rust**, **Python**, and full-stack web d
 This list refreshes automatically from my most recently updated original repositories.
 
 <!-- AUTO:RECENT:START -->
+- [**darb-docs**](https://github.com/KhalidRouissi1/darb-docs) · MDX — Darb website, learning guides, and AI connection documentation
 - [**weiterwerk-bildungszentrum-demo**](https://github.com/KhalidRouissi1/weiterwerk-bildungszentrum-demo) · JavaScript — Fictional adult education and vocational training website demo with bilingual programme finder
 - [**parola-kulturatelier-demo**](https://github.com/KhalidRouissi1/parola-kulturatelier-demo) · JavaScript — Open-source project by Khalid Rouissi.
 - [**luma-sprachstudio-demo**](https://github.com/KhalidRouissi1/luma-sprachstudio-demo) · JavaScript — Open-source project by Khalid Rouissi.
-- [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) · TypeScript · ⭐ 6 — Turn long YouTube videos into focused, trackable learning sessions.
 - [**pure-backend**](https://github.com/KhalidRouissi1/pure-backend) · TypeScript — Open-source project by Khalid Rouissi.
 - [**dotfiles**](https://github.com/KhalidRouissi1/dotfiles) · Lua · ⭐ 1 — Open-source project by Khalid Rouissi.
 - [**c-project**](https://github.com/KhalidRouissi1/c-project) · C — Open-source project by Khalid Rouissi.
@@ -83,7 +84,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**45** original public repositories · **75** stars · **9** forks · **14** primary languages
+**46** original public repositories · **75** stars · **9** forks · **15** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
