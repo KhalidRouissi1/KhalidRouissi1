@@ -22,7 +22,7 @@ These projects best represent what I build:
 | --- | --- | --- |
 | [**degachejs**](https://github.com/KhalidRouissi1/degachejs) ⭐ 48 | Built to simplify common tasks for Tunisian developers — from CIN & RIB validation to phone number formatting and tax ID checks. | TypeScript |
 | [**Tarjemni**](https://github.com/KhalidRouissi1/Tarjemni) ⭐ 6 | Agent-friendly CLI and AI skill for Arabic and Arabic-dialect localization, switcher planning, and RTL QA. | Rust |
-| [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) ⭐ 6 | Darb درب — a browser extension for daily video learning sessions, playlists, timestamped notes, and an organised workspace, with optional MCP integration. | TypeScript |
+| [**darb-youtube**](https://github.com/KhalidRouissi1/darb-youtube) ⭐ 5 | Darb درب — a browser extension for daily video learning sessions, playlists, timestamped notes, and an organised workspace, with optional MCP integration. | TypeScript |
 | [**degache-go**](https://github.com/KhalidRouissi1/degache-go) ⭐ 2 | Tunisian developer utilities for the Go ecosystem. | Go |
 | [**WebCraft**](https://github.com/KhalidRouissi1/WebCraft) ⭐ 3 | Modern web product experimentation in TypeScript. | TypeScript |
 | [**ma7rath**](https://github.com/KhalidRouissi1/ma7rath) ⭐ 2 | A Go project from my backend and systems toolkit. | Go |
@@ -84,7 +84,7 @@ This list refreshes automatically from my most recently updated original reposit
 ## 📊 GitHub Activity
 
 <!-- AUTO:METRICS:START -->
-**46** original public repositories · **75** stars · **9** forks · **15** primary languages
+**46** original public repositories · **74** stars · **9** forks · **15** primary languages
 <!-- AUTO:METRICS:END -->
 
 <div align="center">
